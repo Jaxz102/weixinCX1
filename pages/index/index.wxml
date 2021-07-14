@@ -1,0 +1,2 @@
+<!--index.wxml-->
+<view class="box" hover-class="box-hover" hover-start-time="20" hover-stay-time="50">BOX</view>

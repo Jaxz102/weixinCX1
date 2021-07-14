@@ -1,0 +1,14 @@
+/**index.wxss**/
+
+.box {  
+    color: red;
+    background: blue;
+    height: 100px;
+    width: 100px;
+} 
+
+.box-hover{
+    background-color: brown;
+}
+
+
