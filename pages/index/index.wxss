@@ -9,6 +9,12 @@
 
 .box-hover{
     background-color: brown;
+
+}
+
+image{
+    background-color: red;
+   
 }
 
 
