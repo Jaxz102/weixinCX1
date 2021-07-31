@@ -1,9 +1,15 @@
 <!--index.wxml-->
 <!-- <view class="box" hover-class="box-hover" hover-start-time="20" hover-stay-time="50">BOX</view> -->
 
-<text class="title">可爱猫咪</text>
+<view class="body">
+    <text class="title">可爱猫咪</text>
 
+    <image src="https://i.pinimg.com/736x/33/32/6d/33326dcddbf15c56d631e374b62338dc.jpg" mode="widthFix" show-menu-by-longpress></image>
+    <image src="https://wallpapershome.com/images/pages/pic_v/14572.jpg" mode="widthFix" show-menu-by-longpress></image>
+    <view class="footer">
+        <navigator url="/pages/logs/logs" open-type="redirect">新页</navigator>
+    </view>
+</view>
 
-<image src="https://i.pinimg.com/736x/33/32/6d/33326dcddbf15c56d631e374b62338dc.jpg" mode="widthFix"></image>
 
 

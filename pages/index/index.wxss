@@ -1,5 +1,12 @@
 /**index.wxss**/
-
+.body{
+    width: 100%;
+    height: 100vh;
+    background-position: top;
+    background-size: cover;
+    background-image: url('https://wallpaperaccess.com/full/1201167.jpg');
+    overflow:scroll;
+}
 .box {  
     color: red;
     background: blue;
@@ -16,7 +23,7 @@ image{
     background-color: red;
     display: block;
     margin: auto;
-   
+   margin-top: 20px;
 }
 
 .title{
@@ -27,6 +34,16 @@ image{
     color: #42a1f5;
 
 }
-
+.footer{
+    margin-top: 10px;
+    height: calc(50px + env(safe-area-inset-bottom));
+    background-color: white;
+}
+navigator{
+    padding: 10px 0px;
+    display: block;
+    text-align: center;
+    background-color: yellow;
+}
 
 
